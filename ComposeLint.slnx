@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ComposeLint.Cli/ComposeLint.Cli.fsproj" />
+    <Project Path="src/ComposeLint.Core/ComposeLint.Core.fsproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ComposeLint.Tests/ComposeLint.Tests.fsproj" />
+  </Folder>
+</Solution>
